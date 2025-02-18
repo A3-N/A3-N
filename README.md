@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Adriaan! 👋
 
-<!--
-**Donnager-class/Donnager-class** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on [your project or technology you're learning].
+- 🌱 I’m learning more about React and Docker.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about web development, Docker, or anything else!
+- 📫 How to reach me: [your email or Twitter].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I use
+- JavaScript
+- React
+- Docker
+- Node.js
+- HTML & CSS
+
+## Fun Fact
+I love learning new technologies and contributing to open-source projects!
