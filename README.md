@@ -1,23 +1,15 @@
 # Welcome, Fellow Hacker 🔓
 
-I'm **Adriaan** (aka. A3 or donnager), a hacker, a problem-solver, and a **jack of all trades**, mastering *some* of them along the way. This repository is my digital playground where I share whatever little side projects, tooling, or experiments I manage in my free time.
+I'm **Adriaan** (aka. A3, A3-N or donnager), a hacker, a problem-solver, and a **jack of all trades**, mastering *some* of them along the way.
 
 ## About Me 🕵️‍♂️
 - 🖥️ **OS**: Running Arch, btw.
 - 💡 **Work**: My real work is confidential, so I keep most of it under wraps.
 - 🔧 **Skills**: I dabble in many things—languages, tools, and techniques. Call me a hacker, by mindset not memorised tricks.
-- 💼 **What I Share Here**: Whatever I have time for—mostly side projects, tooling, and code that I reference on my [blog](https://adriaanbosch.com).
   
-## Projects 🔥
-- 🛠️ **Side Projects**: When I have a free moment, you'll find some tooling or random experiments I’ve built here.
-- 📚 **Blog**: I frequently reference my code in the [articles on my website](https://adriaanbosch.com).
-
-## What I Use 🔌
-- **Languages**: I know a little of many. You’ll see me dip into whatever makes the job easiest.
-- **Tools**: If it helps with hacking, I’ll use it—everything from containers to obscure scripting languages.
-
-## Work is Confidential 🔐
-Most of my work is not for public view, but anything I can share, I’ll leave it here in this repo. I’ll also link back to it in my blogs.
+## Blogs 🔥
+- 🛠️ **Technical Blog**: [Capchan – Solving CAPTCHA with Image Classification](https://sensepost.com/blog/2025/capchan-solving-captcha-with-image-classification/).
+- 📚 **Personal Blog**: [The Hacker Mindset](https://adriaanbosch.com/boring/the_hacker_mindset).
 
 ## Connect With Me 🖇️
 - 🌍 **Website**: [adriaanbosch.com](https://adriaanbosch.com)
