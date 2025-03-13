@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile, Fellow Hacker 🔓
+# Welcome, Fellow Hacker 🔓
 
 I'm **Adriaan** (aka. A3 or donnager), a hacker, a problem-solver, and a **jack of all trades**, mastering *some* of them along the way. This repository is my digital playground where I share whatever little side projects, tooling, or experiments I manage in my free time.
 
