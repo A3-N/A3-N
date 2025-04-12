@@ -15,5 +15,7 @@ I'm **Adriaan** (aka. A3, A3-N or donnager), a hacker, a problem-solver, and a *
 - 🌍 **Website**: [adriaanbosch.com](https://adriaanbosch.com)
 - 🔗 **LinkedIn**: [Adriaan Bosch](https://www.linkedin.com/in/adriaan-bosch-80175b236/)
 
-## Hacker Mode: Activated ⚡
-I live for solving problems, learning new things, and building things that go boom—digitally, of course.
+## Ekse ⚡
+I live for solving problems, learning new things, and most important - I want to **understand**.
+
+I make tools, hack for the challenge not the gain and some tomfoolery around of course. 
