@@ -21,8 +21,6 @@ I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s
   <img src="https://github-contributor-stats.vercel.app/api?username=A3-N&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
----
-
 ## About Me 🕵️‍♂️
 - 🖥️ **OS**: Running Arch, btw.
 - 💡 **Work**: My real work is confidential, so I keep most of it under wraps.
@@ -32,8 +30,6 @@ I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3-N&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
----
-
 ## Blogs 🔥
 - 🛠️ **Technical Blog**: [Capchan – Solving CAPTCHA with Image Classification](https://sensepost.com/blog/2025/capchan-solving-captcha-with-image-classification/).
 - 📚 **Personal Blog**: [The Hacker Mindset](https://adriaanbosch.com/boring/the_hacker_mindset).
@@ -41,8 +37,6 @@ I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A3-N&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
 </p>
-
----
 
 ## Connect With Me 🖇️
 - 🌍 **Website**: [adriaanbosch.com](https://adriaanbosch.com)
