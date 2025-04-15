@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s explored a wide stack—learning deeply where it counts.
+I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s explored a wide stack - learning deeply where it counts.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3-N&theme=radical&hide_border=true&layout=compact" height="200"/>
