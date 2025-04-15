@@ -18,7 +18,10 @@
 I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s explored a wide stack—learning deeply where it counts.
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=A3-N&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3-N&theme=radical&hide_border=true&layout=compact" height="200"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=A3-N&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=A3-N&theme=radical&hide_border=true" height="162"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=A3-N&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/><br/>
 </p>
 
 ## About Me 🕵️‍♂️
@@ -26,27 +29,9 @@ I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s
 - 💡 **Work**: My real work is confidential, so I keep most of it under wraps.
 - 🔧 **Skills**: I dabble in many things—languages, tools, and techniques. Call me a hacker, by mindset not memorised tricks.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3-N&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
 ## Blogs 🔥
 - 🛠️ **Technical Blog**: [Capchan – Solving CAPTCHA with Image Classification](https://sensepost.com/blog/2025/capchan-solving-captcha-with-image-classification/).
 - 📚 **Personal Blog**: [The Hacker Mindset](https://adriaanbosch.com/boring/the_hacker_mindset).
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A3-N&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-</p>
-
-## Connect With Me 🖇️
-- 🌍 **Website**: [adriaanbosch.com](https://adriaanbosch.com)
-- 🔗 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriaan-bosch-80175b236/)
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=A3-N&theme=radical&hide_border=false"/><br/>
-</p>
-
----
 
 ## Stacks I’ve Poked, Prodded, and Pwned 💥
 
