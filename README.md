@@ -1,6 +1,6 @@
 # Welcome, Fellow Hacker 🔓
 
-I'm **Adriaan** (aka. A3, A3-N or donnager), a hacker, a problem-solver, and a **jack of all trades**, mastering *some* of them along the way.
+I'm **Adriaan** (aka. A3-N), a hacker, a problem-solver, and a **jack of all trades**, mastering *some* of them along the way.
 
 ## About Me 🕵️‍♂️
 - 🖥️ **OS**: Running Arch, btw.
