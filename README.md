@@ -25,7 +25,7 @@ I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s
 </p>
 
 ## About Me 🕵️‍♂️
-- 🖥️ **OS**: Running Arch, btw.
+- 🖥️ **OS**: Anything that' opensource.
 - 💡 **Work**: My real work is confidential, so I keep most of it under wraps.
 - 🔧 **Skills**: I dabble in many things—languages, tools, and techniques. Call me a hacker, by mindset not memorised tricks.
 
