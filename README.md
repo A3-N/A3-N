@@ -20,8 +20,6 @@ I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3-N&theme=radical&hide_border=true&layout=compact" height="200"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=A3-N&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=A3-N&theme=radical&hide_border=true" height="162"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=A3-N&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/><br/>
 </p>
 
 ## About Me 🕵️‍♂️
@@ -32,58 +30,3 @@ I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s
 ## Blogs 🔥
 - 🛠️ **Technical Blog**: [Capchan – Solving CAPTCHA with Image Classification](https://sensepost.com/blog/2025/capchan-solving-captcha-with-image-classification/).
 - 📚 **Personal Blog**: [The Hacker Mindset](https://adriaanbosch.com/boring/the_hacker_mindset).
-
-## Stacks I’ve Poked, Prodded, and Pwned 💥
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/linode-00A95C?style=flat-square&logo=linode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
-  <img src="https://img.shields.io/badge/homebridge-%23491F59.svg?style=flat-square&logo=homebridge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat-square&logo=wireguard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=flat-square&logo=drupal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat-square&logo=xfce&logoColor=white"/>
-</p>
