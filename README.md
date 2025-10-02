@@ -21,9 +21,9 @@
 </p>
 
 ## About Me 🕵️‍♂️
-- 🖥️ **OS**: Anything that's open source.
+- 🖥️ **OS**: Anything that's open source and rhymes with *nix.
 - 💡 **Work**: My real work is confidential, so I keep most of it under wraps.
-- 🔧 **Skills**: I dabble in many things languages, tools, and techniques. Call me a hacker, by mindset not memorised tricks.
+- 🔧 **Skills**: I dabble in many languages, tools, and techniques. Call me a hacker, by mindset not memorised tricks.
 
 ## Blogs 🔥
 - 🛠️ **Technical Blog**: [no-egress-no-shell-no-problem](https://sensepost.com/blog/2025/no-egress-no-shell-no-problem/).
