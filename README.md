@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s explored a wide stack - learning deeply where it counts.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3-N&theme=radical&hide_border=true&layout=compact" height="200"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=A3-N&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
@@ -25,8 +23,10 @@ I'm **Adriaan** (aka. **A3-N**), a hacker, a problem-solver, and someone who’s
 ## About Me 🕵️‍♂️
 - 🖥️ **OS**: Anything that's open source.
 - 💡 **Work**: My real work is confidential, so I keep most of it under wraps.
-- 🔧 **Skills**: I dabble in many things—languages, tools, and techniques. Call me a hacker, by mindset not memorised tricks.
+- 🔧 **Skills**: I dabble in many things languages, tools, and techniques. Call me a hacker, by mindset not memorised tricks.
 
 ## Blogs 🔥
-- 🛠️ **Technical Blog**: [Capchan – Solving CAPTCHA with Image Classification](https://sensepost.com/blog/2025/capchan-solving-captcha-with-image-classification/).
+- 🛠️ **Technical Blog**: [no-egress-no-shell-no-problem](https://sensepost.com/blog/2025/no-egress-no-shell-no-problem/).
 - 📚 **Personal Blog**: [The Hacker Mindset](https://adriaanbosch.com/boring/the_hacker_mindset).
+
+**Adriaan** (aka. **A3-N**)
