@@ -21,12 +21,13 @@
 </p>
 
 ## About Me 🕵️‍♂️
-- 🖥️ **OS**: Anything that's open source and rhymes with *nix.
-- 💡 **Work**: My real work is confidential, so I keep most of it under wraps.
-- 🔧 **Skills**: I dabble in many languages, tools, and techniques. Call me a hacker, by mindset not memorised tricks.
+- **OS**: Anything that's open source and rhymes with *nix.
+- **Work**: My real work is confidential, so I keep most of it under wraps.
+- **Skills**: I dabble in many languages, tools, and techniques. Call me a hacker, by mindset not memorised tricks.
 
 ## Blogs 🔥
-- 🛠️ **Technical Blog**: [no-egress-no-shell-no-problem](https://sensepost.com/blog/2025/no-egress-no-shell-no-problem/).
-- 📚 **Personal Blog**: [The Hacker Mindset](https://adriaanbosch.com/boring/the_hacker_mindset).
+- **Technical Blog**: [no-egress-no-shell-no-problem](https://sensepost.com/blog/2025/no-egress-no-shell-no-problem/).
+- **Personal Blog**: [The Hacker Mindset](https://adriaanbosch.com/boring/the_hacker_mindset).
+- **Public Talks**: [Unity Games and Questionable Gains | BSides Joburg 2025](https://www.youtube.com/watch?v=6S5GQ2zjuKE)
 
 **Adriaan** (aka. **A3-N**)
