@@ -12,10 +12,12 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A3-N&theme=radical&hide_border=true&layout=compact" height="200"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=A3-N&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
-</p>
+</p> 
+-->
 
 ## Some Silly Things...
 - **Technical Blog**: [no-egress-no-shell-no-problem](https://sensepost.com/blog/2025/no-egress-no-shell-no-problem/).
