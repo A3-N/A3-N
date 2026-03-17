@@ -24,4 +24,6 @@
 - **Personal Blog**: [The Hacker Mindset](https://adriaanbosch.com/boring/the_hacker_mindset).
 - **Public Talks**: [Unity Games and Questionable Gains | BSides Joburg 2025](https://www.youtube.com/watch?v=6S5GQ2zjuKE)
 
-_a3n -> A-three-en -> a-dree-en -> adrian_
+_a3n -> A-three-en -> a-dree-en -> adrian_ 
+
+_GitHub Suspension Survivor_
